@@ -9,7 +9,7 @@ repository = "https://github.com/XpressAI/xai-requests"
 keywords = ["xircuits", "requests"]
 
 dependencies = [
-    "requests==2.32.3"
+    "requests==2.31.0"
 ]
 
 # Xircuits-specific configurations
